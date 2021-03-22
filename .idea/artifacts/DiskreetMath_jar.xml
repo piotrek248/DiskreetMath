@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DiskreetMath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DiskreetMath_jar</output-path>
+    <root id="archive" name="DiskreetMath.jar">
+      <element id="module-output" name="DiskreetMath" />
+    </root>
+  </artifact>
+</component>
